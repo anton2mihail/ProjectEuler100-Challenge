@@ -27,6 +27,7 @@ function isPrime(number)
 
    return true;
  }
+ // Second Test
   
   console.log(largestPrimeFactor(600851475143));
   
